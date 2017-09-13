@@ -6,7 +6,7 @@ app_name: eurekasvr
 jar_name: jcabuhat-eurekasvr
 
 # https url of your company app github fork.  ex: https://github.com/spgreenberg/company-initial.git
-github_app_repo_uri: https://github.com/jcabuhat/eurekasvr-initial.git
+github_app_repo_uri: https://github.com/jcabuhat/eurekasvr.git
 # don't change
 github_app_repo_branch: master
 
