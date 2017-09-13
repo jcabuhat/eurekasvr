@@ -55,3 +55,8 @@ bin
 *.iml
 .gradle
 target
+.apt_generated
+.factorypath
+.springBeans
+
+

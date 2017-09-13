@@ -1,0 +1,13 @@
+--- 
+applications: 
+  - 
+    buildpack: java_buildpack
+    disk_quota: 1024M
+    env: 
+      SPRING_PROFILES_ACTIVE: cloud,dev
+    instances: 1
+    memory: 750M
+    name: eurekasvr
+    path: build/libs/eurekasvr.jar
+
+
