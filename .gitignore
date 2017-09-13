@@ -45,3 +45,13 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# STS Build Stuff
+build
+bin
+.settings
+.classpath
+.project
+*.iml
+.gradle
+target
